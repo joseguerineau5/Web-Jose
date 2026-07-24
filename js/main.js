@@ -5,7 +5,7 @@ import {
   initSocialLinks,
 } from "./modules/navigation.js";
 import { initAnimations } from "./modules/animations.js";
-import { initFaq, initContactForm } from "./modules/forms.js";
+import { initFaq } from "./modules/forms.js";
 import { initTestimonialsCarousel } from "./modules/testimonials.js";
 
 document.addEventListener("DOMContentLoaded", () => {
@@ -13,7 +13,6 @@ document.addEventListener("DOMContentLoaded", () => {
   initNavigation();
   initAnimations();
   initFaq();
-  initContactForm();
   initWhatsAppFloat();
   initSocialLinks();
   initTestimonialsCarousel();

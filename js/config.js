@@ -16,7 +16,7 @@ export const SITE = {
   },
 
   social: {
-    linkedin: "",
+    linkedin: "https://www.linkedin.com/in/jose-guerineau-02296b1b3",
   },
 
   nav: {
